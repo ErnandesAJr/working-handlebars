@@ -22,7 +22,6 @@ If you want to add other features that I’m not using or new ones that you’ve
 
     # Enter directory
     $ cd working-handlebars
-
     # You can now make your changes
 ```
 
